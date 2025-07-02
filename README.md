@@ -2,6 +2,8 @@
 
 Sitio web desarrollado para un estudio de tatuajes femeninos.
 
+Visitar sitio en vercel [https://tatoofem.vercel.app/]
+
 ### 📌 Descripción
 Proyecto real de diseño y desarrollo de una página web para un estudio especializado en tatuajes. El objetivo fue crear una experiencia visual atractiva, clara y funcional, destacando trabajos realizados, información del estudio y formas de contacto.
 
@@ -34,9 +36,9 @@ Proyecto real de diseño y desarrollo de una página web para un estudio especia
 
 ### Codigo abierto
 
-> Podes Acceder al repo en mi perfil
+> Podes Acceder al repo
 
----
+---.
 
 ### 📫 Contacto
 
