@@ -9,6 +9,37 @@ Proyecto real de diseño y desarrollo de una página web para un estudio especia
 
 ---
 
+## 🖼️ Capturas del sitio
+
+### 🧨 Hero
+![Hero](./screenshots/hero.jpg)
+
+---
+
+### 🙋 About
+![About](./screenshots/about.jpg)
+
+---
+
+### 📬 Contact Form
+![Contact Form](./screenshots/contactform.jpg)
+
+---
+
+### 🦶 Footer
+![Footer](./screenshots/footer.jpg)
+
+---
+
+### 🛎️ Services
+![Services](./screenshots/services.jpg)
+
+---
+
+### 🖼️ Gallery
+![Gallery](./screenshots/gallery.jpg)
+
+
 ### 🔧 Tecnologías usadas
 
 - React
