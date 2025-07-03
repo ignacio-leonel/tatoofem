@@ -69,10 +69,16 @@ Proyecto real de diseño y desarrollo de una página web para un estudio especia
 ### Codigo abierto
 
 > Podes Acceder al repo
+> ## 📁 Clonar el repositorio
 
----.
+git clone https://github.com/ignacio-leonel/tatoofem.git
+cd tatoofem
+npm install
+npm run dev
+
+---
 
 ### 📫 Contacto
 
 - LinkedIn: [Ignacio Leonel Maldonado](https://www.linkedin.com/in/ignacio-leonel/)
-- Portfolio: [nachoweb.wordpress.com](https://nachoweb.wordpress.com/)
+- Portfolio: [nachoweb.com.ar](https://nachoweb.com.ar/)
