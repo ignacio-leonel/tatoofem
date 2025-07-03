@@ -21,8 +21,15 @@ Proyecto real de diseño y desarrollo de una página web para un estudio especia
 
 ---
 
+### 🛎️ Services
+![Services](./screenshots/services.jpg)
+
+---
+
+### 🖼️ Gallery
+![Gallery](./screenshots/gallery.jpg)
 ### 📬 Contact Form
-![Contact Form](./screenshots/contactform.jpg)
+![Contact Form](./screenshots/contactForm.jpg)
 
 ---
 
@@ -31,13 +38,7 @@ Proyecto real de diseño y desarrollo de una página web para un estudio especia
 
 ---
 
-### 🛎️ Services
-![Services](./screenshots/services.jpg)
 
----
-
-### 🖼️ Gallery
-![Gallery](./screenshots/gallery.jpg)
 
 
 ### 🔧 Tecnologías usadas
